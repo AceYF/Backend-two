@@ -1,0 +1,14 @@
+.item{
+    height: 75% !important;
+    width: 50% !important;
+}
+
+p{
+    color: #a9ede9;
+}
+
+.final{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
